@@ -1,0 +1,46 @@
+{
+  "masterData": {
+    "yopmailUrl": "https://yopmail.com/",
+    "yopmailUserName": "testusertenant1@yopmail.com",
+    "tenat": "Tenant",
+    "userName": "Sai KrishnaPP"
+  },
+  "incorrectCredential":{
+    "incorrectEmail":"john@yop.com",
+    "incorrectPassword":"Vefd@",
+    "errorMessage":"User not found with this email.",
+    "forgotPasswordMessage":"Temporary password has been sent on registered email",
+    "passwordErrorMessageFeild":"Please enter the correct password",
+    "incorrectPasswordMessage":"IncorrectPwd"
+  },
+  "otpData":{
+    "otpsentText":"OTP has been sent to your registered email address",
+    "otpPlaceholderText":"Please Enter the Email OTP"
+  },
+  "validateData": {
+    "signInHeading": "Sign in to Howard Hughes",
+    "siginmanageText": "Sign in to manage your account, payments, notifications and more.",
+    "emailInnerText":"Please enter your email address",
+    "paymentHeading": "Payments",
+    "chargeScheduleText": "Charge Schedule",
+    "transctionHistoryText": "Transaction History",
+    "LeaseDateRangeText": "Lease Date Range",
+    "amountText": "Amount",
+    "Leaseid": "Lease ID",
+    "amount": "Amount",
+    "time": "Time",
+    "date": "Date",
+    "OldPasswordText": "Old Password",
+    "NewPasswordText": "New Password",
+    "ConfirmNewPasswordText": "Confirm New Password",
+    "PasswordGuidelinesText": "Password Guidelines",
+    "logout": "logout"
+  },
+  "GetTestMaticValidation": {
+    "tokenHeading": "Get Test Tokens",
+    "tokenDescription": "This faucet transfers Test Tokens and Gas Tokens on Polygon PoS and zkEVM testnets and its parent chain (Goerli). Confirm details before submitting",
+    "networkText":"Network",
+    "SelectTokenText":"Select Token",
+    "WalletAddressText":"Wallet Address"
+  }
+}
